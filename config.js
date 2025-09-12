@@ -1,21 +1,21 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a $500 Fall Family Photo Shoot – Roseville & Rocklin",
+    "navBrandLogoText": "Nicole Masters",
+    "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Free $500 Fall Family Photo Shoot</span> for Your Family!",
+    "heroSubheadline": "Make this fall unforgettable with a fun, relaxed family photo session—perfect for families with young kids and a dog! Entry closes October 9th.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
+    "promotionDates": "Enter between September 16th and October 9th, 2025. Winner drawn October 10th!",
+    "endDate": "2025-10-10T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Family Now",
+    "name": "Fall Family Photo Shoot Giveaway",
+    "successModalHeaderText": "You’re in the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 10th. Watch your email to see if you win!",
+    "successModalEmailPrompt": "Keep an eye on your inbox and spam folder for Nicole Masters’ email on October 10th!"
   },
   "settings": {
     "confettiColors": [
@@ -25,244 +25,314 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
+    "ghlWebhookUrl": "",
+    "webhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": ""
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You’re in the Running!",
+    "mainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 10th. Watch your email to see if you win!",
+    "socialPromptText": "Want to help? Share this with a friend who would love new family photos too."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "",
+        "alt": "Smiling family with young kids and a dog enjoying a fall day"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "",
+        "alt": "Candid family photo in autumn leaves"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "",
+        "alt": "Parents and children laughing outdoors with warm sweaters"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "",
+        "alt": "Pet dog with family during a professional photo session"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-camera-retro",
+        "text": "Private one-hour family photo session"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-image",
+        "text": "Up to 75 beautifully edited photos"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-users",
+        "text": "For up to 5 family members (and your dog!)"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-location-arrow",
+        "text": "Choose any photo spot within 60 miles of Grass Valley"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-check",
+        "text": "Expert help picking your perfect location"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Fall Family Photo Shoot Giveaway",
+    "value": "$500 Value",
+    "description": "Imagine cozy fall colors, big smiles, and cuddles with your little ones and furry friends—all captured by a skilled photographer who makes the process easy and fun. You get a full 1-hour session with up to 75 edited photos to keep and share forever. This is your chance to make <span class='highlight'>lasting memories</span> with the people (and pets!) you love most.",
+    "limitedTimeOfferText": "Only one winner! Don’t miss out—enter before October 9th, 2025.",
+    "ctaButtonText": "I Want These Memories!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill Out the Easy Form",
+        "description": "Share your details below. It takes just 30 seconds!"
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "title": "Answer a Few Quick Questions",
+        "description": "Tell us a little about your family and who you want in your photos."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You're Officially Entered!",
+        "description": "That's it! Just wait for the winner announcement on October 10th."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "Fast entry—under a minute"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Absolutely free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-users",
+        "text": "Great for young families"
+      },
+      {
+        "icon": "fas fa-paw",
+        "text": "Dog-friendly sessions"
+      },
+      {
+        "icon": "fas fa-map-marker-alt",
+        "text": "Choose the perfect local spot"
       },
       {
         "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "text": "Lasting, professional memories"
       }
+    ],
+    "fairSelectionInfo": {
+      "title": "We Pick a Winner Fairly!",
+      "text": "The winner is chosen by random draw. Every entry has the same chance—no favorites, just luck!"
+    },
+    "importantNotice": {
+      "title": "Winner Will Be Notified by Email",
+      "text": "Make sure to check your inbox (and spam folder) on October 10th for an email from Nicole Masters!"
+    },
+    "faq": [
+      {
+        "q": "Who can enter this giveaway?",
+        "a": "Any family in Roseville, Rocklin, or within 60 miles of Grass Valley, California. Must be 18+."
+      },
+      {
+        "q": "What should we wear for the photos?",
+        "a": "Wear what makes you comfortable! Your photographer will offer style tips too."
+      },
+      {
+        "q": "Can we include our dog?",
+        "a": "Yes! This giveaway was made with families (and their dogs) in mind."
+      },
+      {
+        "q": "How many family members can join?",
+        "a": "Up to 5 people per family plus your dog."
+      },
+      {
+        "q": "How will I know if I won?",
+        "a": "Nicole will email the winner on October 10th, so watch your inbox!"
+      }
+    ],
+    "tips": [
+      "Double-check your email for typos before you submit",
+      "Share the giveaway link with local friends and family",
+      "Follow Nicole on Instagram for bonus updates",
+      "Add nicole@mastersrealty.homes to your contacts"
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "finePrintText": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 10th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
     "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "a": "Any family in Roseville, Rocklin, or within 60 miles of Grass Valley, California. Must be 18+."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "What should we wear for the photos?",
+        "a": "Wear what makes you comfortable! Your photographer will offer style tips too."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Can we include our dog?",
+        "a": "Yes! This giveaway was made with families (and their dogs) in mind."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "How many family members can join?",
+        "a": "Up to 5 people per family plus your dog."
+      },
+      {
+        "q": "How will I know if I won?",
+        "a": "Nicole will email the winner on October 10th, so watch your inbox!"
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email for typos before you submit",
+      "Share the giveaway link with local friends and family",
+      "Follow Nicole on Instagram for bonus updates",
+      "Add nicole@mastersrealty.homes to your contacts"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "We Pick a Winner Fairly!",
+      "text": "The winner is chosen by random draw. Every entry has the same chance—no favorites, just luck!"
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Will Be Notified by Email",
+      "text": "Make sure to check your inbox (and spam folder) on October 10th for an email from Nicole Masters!"
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-581.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-581.netlify.app%2Fadmin&text=Win%20a%20$500%20Fall%20Family%20Photo%20Shoot%20in%20Roseville%20%26%20Rocklin!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your family’s details below for your chance at a $500 fall photo shoot!",
+    "entryCountText": "Dozens of families just like yours have already entered—will your family be next?",
+    "socialSharePrompt": "Know another local family that would love this? Share the giveaway!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1",
+      "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "Enrolling in local family-friendly activities or events",
+          "text": "Enrolling in local family-friendly activities or events"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "Exploring new neighborhoods and parks",
+          "text": "Exploring new neighborhoods and parks"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Hosting or attending playdates",
+          "text": "Hosting or attending playdates"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Spending time at home",
+          "text": "Spending time at home"
         }
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_2",
+      "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Monthly",
+          "text": "Monthly"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Every few months",
+          "text": "Every few months"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Once a year",
+          "text": "Once a year"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Rarely",
+          "text": "Rarely"
         }
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_3",
+      "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "Expanding living spaces or storage in my current home",
+          "text": "Expanding living spaces or storage in my current home"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "Researching new home designs or styles",
+          "text": "Researching new home designs or styles"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "Planning to relocate to a more family-friendly community",
+          "text": "Planning to relocate to a more family-friendly community"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "None at the moment",
+          "text": "None at the moment"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_4",
+      "questionText": "What is your primary concern when considering family and lifestyle changes?",
+      "options": [
+        {
+          "value": "Finding a bigger space for the children or pets",
+          "text": "Finding a bigger space for the children or pets"
+        },
+        {
+          "value": "Proximity to quality schools and amenities",
+          "text": "Proximity to quality schools and amenities"
+        },
+        {
+          "value": "Community and safety for raising kids",
+          "text": "Community and safety for raising kids"
+        },
+        {
+          "value": "Financial planning for future milestones",
+          "text": "Financial planning for future milestones"
         }
       ]
     }
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/profile.php?id=61577359655772",
+      "instagram": "https://instagram.com/nicole.masters.realtor"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Nicole Masters",
+      "title": "Realtor",
+      "phone": "916-836-1449",
+      "email": "nicole@mastersrealty.homes"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 10th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "secondaryLogoAlt": "",
+    "organizerName": "Nicole Masters",
+    "brokerageName": "",
+    "address": "",
+    "email": "nicole@mastersrealty.homes",
+    "phone": "916-836-1449",
+    "copyrightOwner": "Nicole Masters"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-581",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-581",
+    "netlifyUrl": "http://Giveaway-581.netlify.app",
+    "netlifyId": "1055740688",
+    "tag": "Fall Family Photo Shoot Giveaway"
   }
 };
