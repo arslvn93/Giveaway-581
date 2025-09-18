@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758196564180_0",
+      "id": "q_auto_1758196618622_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758196564180_1",
+      "id": "q_auto_1758196618622_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758196564180_2",
+      "id": "q_auto_1758196618622_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -270,7 +270,7 @@ const config = {
     "secondaryLogoUrl": "https://www.rogcomplete.com/Images/Layout/logo-black.png",
     "secondaryLogoAlt": "",
     "organizerName": "Nicole Masters",
-    "brokerageName": "One Realty Group",
+    "brokerageName": "Realty One Group",
     "address": "",
     "email": "nicole@mastersrealty.homes",
     "phone": "916-836-1449",
