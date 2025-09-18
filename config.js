@@ -27,7 +27,7 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
-    "ghlWebhookUrl": "",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/aytAwn4xuhTG0eNxGf2B/webhook-trigger/1mYdoQ5Xme8BnNVeJBrJ",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
@@ -76,8 +76,8 @@ const config = {
     ],
     "name": "Fall Family Photo Shoot Giveaway",
     "value": "$500 Value",
-    "description": "Imagine cozy fall colors, big smiles, and cuddles with your little ones and furry friends—all captured by a skilled photographer who makes the process easy and fun. You get a full 1-hour session with up to 75 edited photos to keep and share forever. This is your chance to make <span class='highlight'>lasting memories</span> with the people (and pets!) you love most.",
-    "limitedTimeOfferText": "Only one winner! Don’t miss out—enter before October 9th, 2025.",
+    "description": "Imagine cozy fall colors, big smiles, and cuddles with your little ones and furry friends - all captured by a skilled photographer who makes the process easy and fun. You get a full 1-hour session with up to 75 edited photos to keep and share forever. This is your chance to make lasting memories with the people (and pets!) you love most.",
+    "limitedTimeOfferText": "Only one winner! Don’t miss out - enter before October 9th, 2025.",
     "ctaButtonText": "I Want These Memories!"
   },
   "howToEnter": {
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758191376764_0",
+      "id": "q_auto_1758191813316_0",
       "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191376764_1",
+      "id": "q_auto_1758191813316_1",
       "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191376764_2",
+      "id": "q_auto_1758191813316_2",
       "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191376764_3",
+      "id": "q_auto_1758191813316_3",
       "questionText": "What is your primary concern when considering family and lifestyle changes?",
       "options": [
         {
@@ -303,6 +303,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-581",
     "netlifyUrl": "http://Giveaway-581.netlify.app",
     "netlifyId": "1055740688",
-    "tag": "Fall Family Photo Shoot Giveaway"
+    "tag": "Memory Makers Giveaway"
   }
 };
