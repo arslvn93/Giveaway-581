@@ -36,19 +36,19 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
         "alt": "Smiling family with young kids and a dog enjoying a fall day"
       },
       {
-        "src": "",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
         "alt": "Candid family photo in autumn leaves"
       },
       {
-        "src": "",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
         "alt": "Parents and children laughing outdoors with warm sweaters"
       },
       {
-        "src": "",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
         "alt": "Pet dog with family during a professional photo session"
       }
     ],
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758191813316_0",
+      "id": "q_auto_1758191826544_0",
       "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191813316_1",
+      "id": "q_auto_1758191826544_1",
       "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191813316_2",
+      "id": "q_auto_1758191826544_2",
       "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191813316_3",
+      "id": "q_auto_1758191826544_3",
       "questionText": "What is your primary concern when considering family and lifestyle changes?",
       "options": [
         {
