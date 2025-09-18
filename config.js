@@ -36,11 +36,11 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
+        "src": "https://i.ibb.co/TXbV1fz/Cam-Cooper-I.jpg",
         "alt": "Smiling family with young kids and a dog enjoying a fall day"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
+        "src": "https://kellymcphail.com/wp-content/uploads/2020/08/KMP_0042-scaled.jpg",
         "alt": "Candid family photo in autumn leaves"
       },
       {
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758192332763_0",
+      "id": "q_auto_1758192514129_0",
       "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758192332763_1",
+      "id": "q_auto_1758192514129_1",
       "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758192332763_2",
+      "id": "q_auto_1758192514129_2",
       "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758192332763_3",
+      "id": "q_auto_1758192514129_3",
       "questionText": "What is your primary concern when considering family and lifestyle changes?",
       "options": [
         {
