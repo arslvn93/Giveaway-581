@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Free $500 Fall Family Photo Shoot</span> for Your Family!",
-    "heroSubheadline": "Make this fall unforgettable with a fun, relaxed family photo session—perfect for families with young kids and a dog! Entry closes October 9th.",
+    "heroSubheadline": "Make this fall unforgettable with a fun, relaxed family photo session - perfect for families with young kids and a dog! Entry closes October 9th.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
     "promotionDates": "Enter between September 16th and October 9th, 2025. Winner drawn October 10th!",
     "endDate": "2025-10-10T03:59:00.000Z",
@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "",
-    "webhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re in the Running!",
-    "mainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 10th. Watch your email to see if you win!",
-    "socialPromptText": "Want to help? Share this with a friend who would love new family photos too."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -129,47 +123,9 @@ const config = {
         "icon": "fas fa-star",
         "text": "Lasting, professional memories"
       }
-    ],
-    "fairSelectionInfo": {
-      "title": "We Pick a Winner Fairly!",
-      "text": "The winner is chosen by random draw. Every entry has the same chance—no favorites, just luck!"
-    },
-    "importantNotice": {
-      "title": "Winner Will Be Notified by Email",
-      "text": "Make sure to check your inbox (and spam folder) on October 10th for an email from Nicole Masters!"
-    },
-    "faq": [
-      {
-        "q": "Who can enter this giveaway?",
-        "a": "Any family in Roseville, Rocklin, or within 60 miles of Grass Valley, California. Must be 18+."
-      },
-      {
-        "q": "What should we wear for the photos?",
-        "a": "Wear what makes you comfortable! Your photographer will offer style tips too."
-      },
-      {
-        "q": "Can we include our dog?",
-        "a": "Yes! This giveaway was made with families (and their dogs) in mind."
-      },
-      {
-        "q": "How many family members can join?",
-        "a": "Up to 5 people per family plus your dog."
-      },
-      {
-        "q": "How will I know if I won?",
-        "a": "Nicole will email the winner on October 10th, so watch your inbox!"
-      }
-    ],
-    "tips": [
-      "Double-check your email for typos before you submit",
-      "Share the giveaway link with local friends and family",
-      "Follow Nicole on Instagram for bonus updates",
-      "Add nicole@mastersrealty.homes to your contacts"
     ]
   },
   "rules": {
-    "finePrintText": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 10th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter this giveaway?",
@@ -198,6 +154,8 @@ const config = {
       "Follow Nicole on Instagram for bonus updates",
       "Add nicole@mastersrealty.homes to your contacts"
     ],
+    "finePrintText": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 10th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "We Pick a Winner Fairly!",
       "text": "The winner is chosen by random draw. Every entry has the same chance—no favorites, just luck!"
@@ -218,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1",
+      "id": "q_auto_1758191376764_0",
       "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
       "options": [
         {
@@ -240,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_2",
+      "id": "q_auto_1758191376764_1",
       "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
       "options": [
         {
@@ -262,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_3",
+      "id": "q_auto_1758191376764_2",
       "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
       "options": [
         {
@@ -284,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_4",
+      "id": "q_auto_1758191376764_3",
       "questionText": "What is your primary concern when considering family and lifestyle changes?",
       "options": [
         {
@@ -306,6 +264,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re in the Running!",
+    "mainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 10th. Watch your email to see if you win!",
+    "socialPromptText": "Want to help? Share this with a friend who would love new family photos too."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61577359655772",
