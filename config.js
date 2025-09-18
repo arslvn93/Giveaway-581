@@ -101,7 +101,7 @@ const config = {
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Fast entry—under a minute"
+        "text": "Fast entry - under a minute"
       },
       {
         "icon": "fas fa-gift",
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758191826544_0",
+      "id": "q_auto_1758191926388_0",
       "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191826544_1",
+      "id": "q_auto_1758191926388_1",
       "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191826544_2",
+      "id": "q_auto_1758191926388_2",
       "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191826544_3",
+      "id": "q_auto_1758191926388_3",
       "questionText": "What is your primary concern when considering family and lifestyle changes?",
       "options": [
         {
