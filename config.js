@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win a $500 Fall Family Photo Shoot – Roseville & Rocklin",
     "navBrandLogoText": "Nicole Masters",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://www.rogcomplete.com/privacy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Free $500 Fall Family Photo Shoot</span> for Your Family!",
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758191926388_0",
+      "id": "q_auto_1758192332763_0",
       "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191926388_1",
+      "id": "q_auto_1758192332763_1",
       "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191926388_2",
+      "id": "q_auto_1758192332763_2",
       "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
       "options": [
         {
@@ -242,7 +242,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758191926388_3",
+      "id": "q_auto_1758192332763_3",
       "questionText": "What is your primary concern when considering family and lifestyle changes?",
       "options": [
         {
@@ -288,8 +288,8 @@ const config = {
       "email": "nicole@mastersrealty.homes"
     },
     "footerDisclaimer": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 10th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://i.ibb.co/9mmQ9RBK/QR-Code-Event-1.png",
+    "secondaryLogoUrl": "https://www.rogcomplete.com/Images/Layout/logo-black.png",
     "secondaryLogoAlt": "",
     "organizerName": "Nicole Masters",
     "brokerageName": "",
