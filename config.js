@@ -176,90 +176,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758192514129_0",
-      "questionText": "How do you typically spend weekends with your family? (Select all that apply)",
+      "id": "q_auto_1758192652522_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Enrolling in local family-friendly activities or events",
-          "text": "Enrolling in local family-friendly activities or events"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Exploring new neighborhoods and parks",
-          "text": "Exploring new neighborhoods and parks"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Hosting or attending playdates",
-          "text": "Hosting or attending playdates"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Spending time at home",
-          "text": "Spending time at home"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1758192514129_1",
-      "questionText": "How often do you find yourself reorganizing or redecorating spaces at home to accommodate your family's needs?",
+      "id": "q_auto_1758192652522_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Monthly",
-          "text": "Monthly"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Every few months",
-          "text": "Every few months"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
-          "value": "Once a year",
-          "text": "Once a year"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Rarely",
-          "text": "Rarely"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1758192514129_2",
-      "questionText": "Which of the following best describes your future home improvement or lifestyle projects within the next year?",
+      "id": "q_auto_1758192652522_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
-          "value": "Expanding living spaces or storage in my current home",
-          "text": "Expanding living spaces or storage in my current home"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Researching new home designs or styles",
-          "text": "Researching new home designs or styles"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Planning to relocate to a more family-friendly community",
-          "text": "Planning to relocate to a more family-friendly community"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "None at the moment",
-          "text": "None at the moment"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1758192514129_3",
-      "questionText": "What is your primary concern when considering family and lifestyle changes?",
-      "options": [
-        {
-          "value": "Finding a bigger space for the children or pets",
-          "text": "Finding a bigger space for the children or pets"
-        },
-        {
-          "value": "Proximity to quality schools and amenities",
-          "text": "Proximity to quality schools and amenities"
-        },
-        {
-          "value": "Community and safety for raising kids",
-          "text": "Community and safety for raising kids"
-        },
-        {
-          "value": "Financial planning for future milestones",
-          "text": "Financial planning for future milestones"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
