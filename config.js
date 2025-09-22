@@ -40,7 +40,7 @@ const config = {
         "alt": "Smiling family with young kids and a dog enjoying a fall day"
       },
       {
-        "src": "https://kellymcphail.com/wp-content/uploads/2020/08/KMP_0042-scaled.jpg",
+        "src": "https://iili.io/KavEWZb.webp",
         "alt": "Candid family photo in autumn leaves"
       },
       {
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758569416405_0",
+      "id": "q_auto_1758569492426_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758569416405_1",
+      "id": "q_auto_1758569492426_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758569416405_2",
+      "id": "q_auto_1758569492426_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
