@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Free $500 Fall Family Photo Shoot</span> for Your Family!",
     "heroSubheadline": "Make this fall unforgettable with a fun, relaxed family photo session - perfect for families with young kids and a dog! Entry closes October 9th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
+    "heroBackgroundImageUrl": "https://iili.io/KavEVwu.webp",
     "promotionDates": "Enter between September 16th and October 9th, 2025. Winner drawn October 10th!",
     "endDate": "2025-10-10T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758196618622_0",
+      "id": "q_auto_1758569083021_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758196618622_1",
+      "id": "q_auto_1758569083021_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758196618622_2",
+      "id": "q_auto_1758569083021_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
