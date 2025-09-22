@@ -36,7 +36,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://i.ibb.co/TXbV1fz/Cam-Cooper-I.jpg",
+        "src": "https://iili.io/KavESAF.webp",
         "alt": "Smiling family with young kids and a dog enjoying a fall day"
       },
       {
@@ -44,11 +44,11 @@ const config = {
         "alt": "Candid family photo in autumn leaves"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
+        "src": "https://iili.io/KavEWZb.webp",
         "alt": "Parents and children laughing outdoors with warm sweaters"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8s9fnmxse5rma0cs7whsnjq678.jpg",
+        "src": "https://iili.io/KavEVwu.webp",
         "alt": "Pet dog with family during a professional photo session"
       }
     ],
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758569083021_0",
+      "id": "q_auto_1758569416405_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758569083021_1",
+      "id": "q_auto_1758569416405_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758569083021_2",
+      "id": "q_auto_1758569416405_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
