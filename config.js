@@ -6,15 +6,15 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Free $500 Fall Family Photo Shoot</span> for Your Family!",
-    "heroSubheadline": "Make this fall unforgettable with a fun, relaxed family photo session - perfect for families with young kids and a dog! Entry closes October 9th.",
+    "heroSubheadline": "Make this fall unforgettable with a fun, relaxed family photo session - perfect for families with young kids and a dog! Entry closes October 16th.",
     "heroBackgroundImageUrl": "https://iili.io/KavEVwu.webp",
-    "promotionDates": "Enter between September 16th and October 9th, 2025. Winner drawn October 10th!",
-    "endDate": "2025-10-10T03:59:00.000Z",
+    "promotionDates": "Enter between September 16th and October 16th, 2025. Winner drawn October 17th!",
+    "endDate": "2025-10-17T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Family Now",
     "name": "Fall Family Photo Shoot Giveaway",
     "successModalHeaderText": "You’re in the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 10th. Watch your email to see if you win!",
+    "successModalMainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 17th. Watch your email to see if you win!",
     "successModalEmailPrompt": "Keep an eye on your inbox and spam folder for Nicole Masters’ email on October 10th!"
   },
   "settings": {
@@ -95,7 +95,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You're Officially Entered!",
-        "description": "That's it! Just wait for the winner announcement on October 10th."
+        "description": "That's it! Just wait for the winner announcement on October 17th."
       }
     ],
     "highlights": [
@@ -154,7 +154,7 @@ const config = {
       "Follow Nicole on Instagram for bonus updates",
       "Add nicole@mastersrealty.homes to your contacts"
     ],
-    "finePrintText": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 10th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
+    "finePrintText": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 17th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
     "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "We Pick a Winner Fairly!",
@@ -176,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758884812934_0",
+      "id": "q_auto_1758962224397_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -198,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758884812934_1",
+      "id": "q_auto_1758962224397_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -220,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758884812934_2",
+      "id": "q_auto_1758962224397_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -251,7 +251,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re in the Running!",
-    "mainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 10th. Watch your email to see if you win!",
+    "mainMessage": "Your entry for the <strong>Fall Family Photo Shoot Giveaway</strong> is in! Good luck. We’ll draw the winner on October 17th. Watch your email to see if you win!",
     "socialPromptText": "Want to help? Share this with a friend who would love new family photos too."
   },
   "footerContact": {
@@ -265,7 +265,7 @@ const config = {
       "phone": "916-836-1449",
       "email": "nicole@mastersrealty.homes"
     },
-    "footerDisclaimer": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 10th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
+    "footerDisclaimer": "This giveaway is by Nicole Masters at Masters Realty. It is not sponsored by or affiliated with Facebook, Instagram, or any social platform. Winner chosen October 17th, 2025, from all eligible local entries. Must be 18+ and within the service area to win.",
     "organizerLogoUrl": "https://i.ibb.co/9mmQ9RBK/QR-Code-Event-1.png",
     "secondaryLogoUrl": "https://www.rogcomplete.com/Images/Layout/logo-black.png",
     "secondaryLogoAlt": "",
