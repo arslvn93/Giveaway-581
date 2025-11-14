@@ -9,7 +9,7 @@ const config = {
     "heroSubheadline": "Make this fall unforgettable with a fun, relaxed family photo session - perfect for families with young kids and a dog! Entry closes October 16th.",
     "heroBackgroundImageUrl": "https://iili.io/KavEVwu.webp",
     "promotionDates": "Enter between September 16th and October 16th, 2025. Winner drawn October 17th!",
-    "endDate": "2025-10-17T03:59:00.000Z",
+    "endDate": "2025-11-17T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Family Now",
     "name": "Fall Family Photo Shoot Giveaway",
@@ -29,6 +29,7 @@ const config = {
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/aytAwn4xuhTG0eNxGf2B/webhook-trigger/1mYdoQ5Xme8BnNVeJBrJ",
     "facebookPixelId": "1944426839435015",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
@@ -176,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761168540947_0",
+      "id": "q_auto_1763132863955_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -198,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761168540947_1",
+      "id": "q_auto_1763132863955_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -220,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761168540947_2",
+      "id": "q_auto_1763132863956_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
